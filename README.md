@@ -1,4 +1,4 @@
-# Data is only powerful when it drives real decisions
+# **I do believe that data is only powerful when it drives real decisions**
 
 👋 Hello and welcome!
 
