@@ -60,6 +60,8 @@ If you value:
 
 then you’re looking at the right GitHub profile.
 
+---
+
 📫 **Let’s connect:**  
 - LinkedIn: https://www.linkedin.com/in/ilham-den-fatah/  
 - Email: denfatahilham@gmail.com
