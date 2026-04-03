@@ -1,67 +1,74 @@
-# **I do believe that data is only powerful when it drives real decisions**
+# **I build the last mile — where data becomes automated action**
 
 👋 Hello and welcome!
 
-I'm Ilham Den Fatah, a **hybrid Data Analyst / Data Scientist** who operates at the intersection of **business, product, and data**. My work is grounded in one simple belief: the best analytics isn’t the most complex — it’s the most usable.  
+I'm Ilham Den Fatah, an **AI Automation Builder & Decision Systems Engineer** who operates at the intersection of **LLM integration, workflow automation, and business data analytics**. My work is grounded in one belief: insights that stay in dashboards are insights that die.
 
-Coming from a strong operational and business background, I learned early that beautiful models mean nothing if teams can’t act on them. That’s why my approach always follows the same arc:  
-**clear problem framing → structured decision logic → reliable data → rigorous analysis → interpretable results → real business impact.**
+Coming from a strong operational and business background — including driving 30%+ revenue growth and scaling 40+ MSMEs through ecosystem building — I learned early that the real gap isn't in analysis. It's in **delivery**. That's why I build the complete loop:
 
----
+**data → analysis → AI/LLM intelligence layer → automated workflow (n8n, OpenClaw) → live signals delivered to stakeholders via Slack, WhatsApp, or Telegram.**
 
-### 🚀 What I bring to the table
-I don’t position myself as “just a technical person.” I position myself as a **decision partner**.
-
-My core strengths:
-- **Business Framing & Decision Logic**  
-  Translating vague business problems into precise questions, measurable outcomes, and clear decision rules.
-
-- **SQL & Python Analytics (Production Mindset)**  
-  Clean, reproducible, and structured workflows — not messy notebooks that die after presentation day.
-
-- **End-to-End Ownership**  
-  From raw data → pipeline → analysis → modeling → interpretation → decision layer → stakeholder communication.
-
-In short: I don’t stop at “insights.” I go all the way to **actionable recommendations.**
+If you hire me, your team gets business intelligence on their phones — not static reports in their inbox.
 
 ---
 
-### 📌 Signature projects (highlights worth your time)
-These aren’t school assignments — they are **business-driven systems**.
+### 🚀 What I build
 
-**1) Retail Demand Forecasting & Decision System**  
-An end-to-end forecasting system designed not for leaderboard accuracy, but for real operational decisions — inventory planning, safety stock, and scenario analysis.
+I don't stop at insights. I build **systems that deliver them automatically**.
 
-**2) Retail Demand Risk Prioritization**  
-A decision framework that ranks departments under demand uncertainty, translating technical signals into clear operational priorities.
+- **AI-Powered Applications**
+  End-to-end tools using LLM APIs (Claude, GPT, Gemini), Groq for fast inference, and Streamlit for interactive frontends — turning raw data into natural language Q&A and automated alerts.
 
-**3) Customer Lifetime Value (CLV) for Retail**  
-A full workflow from data cleaning to probabilistic modeling and actionable customer segmentation for business strategy.
+- **Workflow Automation Pipelines**
+  n8n and OpenClaw-powered workflows that connect APIs, trigger on events, process data through AI, and deliver structured outputs to the right people at the right time.
 
-*(More projects below — each built with the same decision-first philosophy.)*
-
----
-
-### 🛠 My technical toolkit
-- **Core:** Python, SQL  
-- **Analytics & ML:** Pandas, NumPy, Scikit-learn, Statsmodels  
-- **Data Engineering mindset:** reproducible pipelines, config-driven workflows, clear documentation  
-- **Visualization & Storytelling:** decision-focused dashboards, not vanity charts
+- **Decision Intelligence Systems**
+  Analytics that go beyond charts — risk scoring, prioritization frameworks, and scenario planning designed for executives who need to act, not just read.
 
 ---
 
-### 🎯 Where I’m headed
-I’m targeting roles as a **BI Analyst, Data Analyst, or Data Scientist** in **retail, consulting, or product/tech companies** — environments where data truly shapes strategy and execution.
+### 📌 Flagship projects
 
-If you value:
-- clarity over complexity,  
-- impact over vanity metrics, and  
-- decisions over dashboards,  
+**1) [AI-Powered Retail Inventory Decision Engine](https://github.com/ilhamdenfatah/retail-inventory-ai)**
+Streamlit + Groq (Llama 3.3) for natural language Q&A over inventory data. Automated stock risk alerts delivered to stakeholders. The full pipeline: data ingestion → scoring engine → LLM layer → automated delivery.
 
-then you’re looking at the right GitHub profile.
+**2) [AI Meeting Summarization & Action Item Extraction](https://github.com/ilhamdenfatah/meeting-ai-automation)**
+Gemini AI + n8n workflow automation. Meetings go in, structured summaries and action items come out — automatically, with zero manual processing.
+
+**3) [Professional AI Digital Twin](https://github.com/ilhamdenfatah/personal-ai-twin)**
+A conversational AI assistant that serves as my professional digital twin — enabling recruiters and collaborators to explore my experience, projects, and thinking style through natural language.
+
+**4) [Retail Demand Risk Prioritization](https://github.com/ilhamdenfatah/retail-demand-risk-prioritization)**
+Decision-driven analytics that translates fragmented operational signals into interpretable risk scores for structured planning under uncertainty.
+
+**5) [Customer Lifetime Value Modeling — Retail](https://github.com/ilhamdenfatah/clv-modeling-retail)**
+End-to-end CLV pipeline: BG/NBD + Gamma-Gamma modeling, RFM features, and actionable customer segmentation.
 
 ---
 
-### 📫 **Let’s connect:**  
-- LinkedIn: https://www.linkedin.com/in/ilham-den-fatah/  
+### 🛠 Tech stack
+
+- **AI & LLM:** Claude API, GPT API, Gemini API, Anthropic & OpenAI SDK, Groq (Llama 3.3), Prompt Engineering
+- **Automation:** n8n, OpenClaw, Webhook Integrations, Multi-Channel Delivery (Slack, WhatsApp, Telegram)
+- **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL (PostgreSQL, BigQuery), Streamlit
+- **Data Engineering:** Docker, Apache Airflow, AWS (S3, Lambda, Glue, Athena), Elasticsearch
+- **ML & Analytics:** Time Series Forecasting, Predictive Modeling, CLV, NLP, Decision Support Modeling
+
+---
+
+### 🎯 What I'm looking for
+
+I'm targeting roles as an **AI Automation Engineer, AI Solutions Builder, or AI-Enhanced Data Analyst** — remote positions at companies where AI and automation aren't just buzzwords, but tools that ship real value.
+
+If you need someone who can:
+- integrate LLM APIs into production workflows,
+- build n8n/OpenClaw automation pipelines end-to-end,
+- and bridge the gap between data analytics and automated stakeholder delivery,
+
+then you're looking at the right GitHub profile.
+
+---
+
+### 📫 Let's connect
+- LinkedIn: [linkedin.com/in/ilham-den-fatah](https://www.linkedin.com/in/ilham-den-fatah/)
 - Email: denfatahilham@gmail.com
